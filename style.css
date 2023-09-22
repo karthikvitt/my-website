@@ -1,0 +1,53 @@
+body{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    border-style: solid;
+
+    
+    
+}
+h2{
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h3{
+    text-align: left;
+    font-size:30px;
+    padding-top: 25px;
+
+}
+P{
+    font-size: 30px;
+}
+h4{
+    text-align: left;
+    font-size:30px;
+    padding-top: 25px;
+
+}
+h5{
+    text-align: left;
+    font-size:30px;
+    padding-top: 25px;
+
+}
+h6{
+    text-align: left;
+    font-size:30px;
+    padding-top: 25px;}
+
+    img{
+        
+        border-style: solid;
+        border-radius: 30px;
+        border-width: 5px;
+        padding: auto;
+       
+       
+        
+
+    }
+    
+    
